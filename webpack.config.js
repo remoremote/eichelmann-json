@@ -35,11 +35,11 @@ module.exports = {
       template: './index.html', // Adjust if your index.html is located elsewhere
       filename: 'index.html'
     }),
-    // Uncomment and adjust paths if you need to copy additional assets
-    // new CopyWebpackPlugin({
-    //   patterns: [
-    //     { from: 'path/to/assets', to: 'dist/assets' }
-    //   ]
-    // })
+    // Add CopyWebpackPlugin to copy details.json to dist directory
+    new CopyWebpackPlugin({
+      patterns: [
+        { from: 'details.json', to: 'dist/details.json' }
+      ]
+    })
   ]
 };
