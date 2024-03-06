@@ -5,10 +5,9 @@ module.exports = {
   mode: 'production',
   entry: './netlify/functions/start-scraper.js',
   output: {
-    path: path.resolve(__dirname, 'netlify/functions/dist'),
-    filename: 'start-scraper-bundled.js',
-    clean: true,
-  },
+    path: path.resolve(__dirname, 'dist'), // The output directory
+    filename: '[name].bundle.js',
+  }
   resolve: {
     fallback: { "path": false, "fs": false },
     alias: {
