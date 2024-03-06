@@ -1,5 +1,5 @@
 // netlify/functions/start-scraper.js
-const { main } = require("../../../index.js"); // Correct the path if necessary
+const { main } = require('@root/index.js');
 
 exports.handler = async function (event, context) {
   try {

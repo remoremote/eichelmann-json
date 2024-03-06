@@ -11,6 +11,10 @@ module.exports = {
   },
   resolve: {
     fallback: { "path": false, "fs": false },
+    alias: {
+      // Define an alias '@root' to refer to the project root directory
+      '@root': path.resolve(__dirname),
+    }
   },
   module: {
     rules: [
