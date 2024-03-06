@@ -1,4 +1,4 @@
 [build]
 command = "webpack"
-functions = "netlify/functions/dist"
+functions = "dist"
 publish = "dist"  # Updated to match the correct output directory
