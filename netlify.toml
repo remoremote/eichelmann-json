@@ -1,0 +1,4 @@
+[build]
+  command = "webpack && other_commands_if_any"
+  functions = "netlify/functions/dist"
+  publish = "path_to_publish_directory"
