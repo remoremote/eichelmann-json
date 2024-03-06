@@ -1,4 +1,4 @@
 [build]
-command = "webpack && npm run deploy"
+command = "webpack"
 functions = "netlify/functions/dist"
 publish = "path_to_publish_directory"
