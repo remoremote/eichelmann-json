@@ -20,7 +20,7 @@ async function main() {
   console.log("Starting main scraping function...");
   let allDetails = [];
 
-  const maxPageNumber = 8; // Define maxPageNumber
+  const maxPageNumber = 9; // Define maxPageNumber
 
   for (let i = 1; i <= maxPageNumber; i++) {
     const pageLinks = await scrapeOverviewPage(i);
