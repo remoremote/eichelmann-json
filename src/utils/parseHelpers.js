@@ -8,6 +8,12 @@ function parseArea(value) {
   return match ? parseInt(match[1] + match[2]) : 0;
 }
 
+// Clean the description HTML of preceding whitespace and div tags
+function cleanDescriptionHTML(value) {
+  // Remove leading and trailing whitespaces, then strip the outer <div> tags
+  return value.trim().replace(/^<div>\s*|\s*<\/div>$/g, "");
+}
+
 function parseSpaceType(value) {
   switch (value) {
     case "Einzelhandel":
@@ -26,5 +32,6 @@ function parseSpaceType(value) {
 module.exports = {
   parsePrice,
   parseArea,
-  parseSpaceType
+  cleanDescriptionHTML,
+  parseSpaceType,
 };

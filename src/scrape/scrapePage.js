@@ -8,6 +8,7 @@ const {
   parsePrice,
   parseArea,
   parseSpaceType,
+  cleanDescriptionHTML
 } = require("../utils/parseHelpers");
 
 const turndownService = new TurndownService();
@@ -33,6 +34,7 @@ async function scrapePage(link) {
 
   // Scrape description
   details.descriptionHTML = $(".descriptions").html(); // Store HTML description
+  details.descriptionHTML = cleanDescriptionHTML($(".descriptions").html());
   details.descriptionMarkdown = turndownService.turndown(
     details.descriptionHTML,
   ); // Convert HTML to Markdown
