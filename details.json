@@ -324,6 +324,32 @@
   },
   {
     "address": {
+      "number": "1",
+      "street": "Grabenstrasse",
+      "city": "Uster",
+      "zip": "8606"
+    },
+    "metaTitle": "Eigene Etage mit viel Tageslicht in Bahnhofsnähe!",
+    "descriptionHTML": "<p>Unweit des Bahnhofs in Nänikon/Greifensee vermieten wir helle, hochwertige und belüftete Flächen, welche sowohl als Gewerbe- als auch Büroflächen genutzt werden können. Es bestehen bereits separate Räume und ein zusätzlicher Büroteil mit Vorbereitung für die Installation einer Teeküche. Besonderer Pluspunkt ist die grosszügige Terrasse zur Mitbenutzung.</p><p>Eckdaten:</p><ul><li>Kühldecken</li><li>Open Space wie auch Unterteilungen möglich</li><li>Hochwertiger Eingangsbereich</li><li>Deckenhöhe 3.2 m total</li><li>Lagerflächen bis 34 m2 können dazugemietet werden</li><li>Ausreichend Aussenparkplätze vorhanden</li></ul><p>Der Nettomietzins von CHF 142 m2pa versteht sich als Durchschnittsmietzins bei einer langfristigen Bindung (5 Jahre) mit entsprechender Staffelung.</p><p>Alle Beträge verstehen sich zzgl. gesetzlicher MwSt.&nbsp;</p><p>Gerne zeigen wir Ihnen diese spannende Fläche vor Ort.</p>",
+    "descriptionMarkdown": "### Eigene Etage mit viel Tageslicht in Bahnhofsnähe!\n\nUnweit des Bahnhofs in Nänikon/Greifensee vermieten wir helle, hochwertige und belüftete Flächen, welche sowohl als Gewerbe- als auch Büroflächen genutzt werden können. Es bestehen bereits separate Räume und ein zusätzlicher Büroteil mit Vorbereitung für die Installation einer Teeküche. Besonderer Pluspunkt ist die grosszügige Terrasse zur Mitbenutzung.\n\nEckdaten:\n\n*   Kühldecken\n*   Open Space wie auch Unterteilungen möglich\n*   Hochwertiger Eingangsbereich\n*   Deckenhöhe 3.2 m total\n*   Lagerflächen bis 34 m2 können dazugemietet werden\n*   Ausreichend Aussenparkplätze vorhanden\n\nDer Nettomietzins von CHF 142 m2pa versteht sich als Durchschnittsmietzins bei einer langfristigen Bindung (5 Jahre) mit entsprechender Staffelung.\n\nAlle Beträge verstehen sich zzgl. gesetzlicher MwSt. \n\nGerne zeigen wir Ihnen diese spannende Fläche vor Ort.",
+    "systemOfficeId": "..(6745721)",
+    "spaceType": "Office Space",
+    "Nutzung": "Gewerbe",
+    "dateRent": "ab sofort",
+    "price": 142,
+    "totalArea": 600,
+    "images": [
+      "https://casagateway.ch/media/provider-12797/property-914725/d9a73e4e01c59be70719437f186782ff.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-914725/acdb35edffb49da7044d0abed2597139.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-914725/d9627035e2ae67f5abbf7e35ae0d44eb.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-914725/a9bca3ab0d9ebe9ebfce84bd5a4c1138.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-914725/3c6eca5d61e71878135f8df27ff25765.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-914725/9646bd6ba929a5520bf110e7da086dbc.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-914725/233723d3178340a8e82acf40906632ec.jpg?p=lg"
+    ]
+  },
+  {
+    "address": {
       "number": "16a",
       "street": "Florastrasse",
       "city": "Biel",
@@ -657,7 +683,7 @@
     "spaceType": "Commercial Space",
     "Nutzung": "Gewerbe",
     "dateRent": "ab sofort",
-    "price": 1600,
+    "price": 1750,
     "totalArea": 163,
     "images": [
       "https://casagateway.ch/media/provider-12797/property-1122617/4a7c51b29468844f4b9d9093d4d17227.jpg?p=lg",
@@ -670,32 +696,6 @@
       "https://casagateway.ch/media/provider-12797/property-1122617/afdaf27f3e57107c06212b873e832e93.jpg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1122617/4ddf03d71df5e6039b59dd1432009b86.jpg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1122617/911f2d3dd21de78666c236d394d6a176.jpg?p=lg"
-    ]
-  },
-  {
-    "address": {
-      "number": "1",
-      "street": "Grabenstrasse",
-      "city": "Uster",
-      "zip": "8606"
-    },
-    "metaTitle": "Eigene Etage mit viel Tageslicht in Bahnhofsnähe!",
-    "descriptionHTML": "<p>Unweit des Bahnhofs in Nänikon/Greifensee vermieten wir helle, hochwertige und belüftete Flächen, welche sowohl als Gewerbe- als auch Büroflächen genutzt werden können. Es bestehen bereits separate Räume und ein zusätzlicher Büroteil mit Vorbereitung für die Installation einer Teeküche. Besonderer Pluspunkt ist die grosszügige Terrasse zur Mitbenutzung.</p><p>Eckdaten:</p><ul><li>Kühldecken</li><li>Open Space wie auch Unterteilungen möglich</li><li>Hochwertiger Eingangsbereich</li><li>Deckenhöhe 3.2 m total</li><li>Lagerflächen bis 34 m2 können dazugemietet werden</li><li>Ausreichend Aussenparkplätze vorhanden</li></ul><p>Der Nettomietzins von CHF 142 m2pa versteht sich als Durchschnittsmietzins bei einer langfristigen Bindung (5 Jahre) mit entsprechender Staffelung.</p><p>Alle Beträge verstehen sich zzgl. gesetzlicher MwSt.&nbsp;</p><p>Gerne zeigen wir Ihnen diese spannende Fläche vor Ort.</p>",
-    "descriptionMarkdown": "### Eigene Etage mit viel Tageslicht in Bahnhofsnähe!\n\nUnweit des Bahnhofs in Nänikon/Greifensee vermieten wir helle, hochwertige und belüftete Flächen, welche sowohl als Gewerbe- als auch Büroflächen genutzt werden können. Es bestehen bereits separate Räume und ein zusätzlicher Büroteil mit Vorbereitung für die Installation einer Teeküche. Besonderer Pluspunkt ist die grosszügige Terrasse zur Mitbenutzung.\n\nEckdaten:\n\n*   Kühldecken\n*   Open Space wie auch Unterteilungen möglich\n*   Hochwertiger Eingangsbereich\n*   Deckenhöhe 3.2 m total\n*   Lagerflächen bis 34 m2 können dazugemietet werden\n*   Ausreichend Aussenparkplätze vorhanden\n\nDer Nettomietzins von CHF 142 m2pa versteht sich als Durchschnittsmietzins bei einer langfristigen Bindung (5 Jahre) mit entsprechender Staffelung.\n\nAlle Beträge verstehen sich zzgl. gesetzlicher MwSt. \n\nGerne zeigen wir Ihnen diese spannende Fläche vor Ort.",
-    "systemOfficeId": "..(6745721)",
-    "spaceType": "Office Space",
-    "Nutzung": "Gewerbe",
-    "dateRent": "ab sofort",
-    "price": 142,
-    "totalArea": 600,
-    "images": [
-      "https://casagateway.ch/media/provider-12797/property-914725/d9a73e4e01c59be70719437f186782ff.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-914725/acdb35edffb49da7044d0abed2597139.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-914725/d9627035e2ae67f5abbf7e35ae0d44eb.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-914725/a9bca3ab0d9ebe9ebfce84bd5a4c1138.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-914725/3c6eca5d61e71878135f8df27ff25765.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-914725/9646bd6ba929a5520bf110e7da086dbc.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-914725/233723d3178340a8e82acf40906632ec.jpg?p=lg"
     ]
   },
   {
@@ -753,14 +753,44 @@
   },
   {
     "address": {
+      "number": "174",
+      "street": "Vorstadtstrasse",
+      "city": "Laupersdorf",
+      "zip": "4712"
+    },
+    "metaTitle": "GreenPlaces Balsthal - Letzte Einheiten!",
+    "descriptionHTML": "<p></p><p>GreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.</p><p>Zur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.</p><p>Die Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. Die Flächen sind bereits zweckmässig ausgebaut (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung) und können unmittelbar genutzt werden. Bei der Nutzung bestehen kaum Einschränkungen.</p><p>Ein Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.</p><p>Das Nebenkosten-Akonto beträgt CHF 50 / Monat.</p><p>Gerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.</p><p></p>",
+    "descriptionMarkdown": "### GreenPlaces Balsthal - Letzte Einheiten!\n\nGreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.\n\nZur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.\n\nDie Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. Die Flächen sind bereits zweckmässig ausgebaut (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung) und können unmittelbar genutzt werden. Bei der Nutzung bestehen kaum Einschränkungen.\n\nEin Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.\n\nDas Nebenkosten-Akonto beträgt CHF 50 / Monat.\n\nGerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.",
+    "systemOfficeId": "509c6aa8-e1de-11ee-afda-0a4bde28e6f6",
+    "spaceType": "Commercial Space",
+    "Nutzung": "Gewerbe",
+    "dateRent": "ab sofort",
+    "stockwerk": 0,
+    "price": 1550,
+    "totalArea": 163,
+    "images": [
+      "https://casagateway.ch/media/provider-12797/property-1122617/face21afad8269b6fe65c9134c9af281.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1122617/4a7c51b29468844f4b9d9093d4d17227.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1122617/5c2ec30f19c6eb7fced860bf0147544e.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1122617/07a495411c6fbece7a36b0f33afb5f30.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1122617/e38fcce2e88201733cab3b33dc3ec918.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1122617/59abe1ea78cf0bd00e2cbcd31eb79b34.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1122617/0f1dfe1f0fac2d595a6f5a2dff9d36d4.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1122617/afdaf27f3e57107c06212b873e832e93.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1122617/4ddf03d71df5e6039b59dd1432009b86.jpg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1122617/911f2d3dd21de78666c236d394d6a176.jpg?p=lg"
+    ]
+  },
+  {
+    "address": {
       "number": "2",
       "street": "Wattwerkstrasse",
       "city": "Bubendorf",
       "zip": "4416"
     },
     "metaTitle": "Modulare Gewerbeboxen für diverse Nutzungen - GreenPlaces!",
-    "descriptionHTML": "<p></p><p>GreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.</p><p>Zur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.</p><p>Die Nettogeschossfläche auf drei Stockwerken beträgt 326 m2. Für den Ausbau der Flächen liegen bewährte Konzepte vor (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung). Bei der Nutzung bestehen kaum Einschränkungen.</p><p>Ein Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.</p><p>Die Nebenkosten belaufen sich auf CHF 50 / Monat.</p><p>Gerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.</p><p></p>",
-    "descriptionMarkdown": "### Modulare Gewerbeboxen für diverse Nutzungen - GreenPlaces!\n\nGreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.\n\nZur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.\n\nDie Nettogeschossfläche auf drei Stockwerken beträgt 326 m2. Für den Ausbau der Flächen liegen bewährte Konzepte vor (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung). Bei der Nutzung bestehen kaum Einschränkungen.\n\nEin Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.\n\nDie Nebenkosten belaufen sich auf CHF 50 / Monat.\n\nGerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.",
+    "descriptionHTML": "<p>GreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.</p><p>Zur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.</p><p>Die Nettogeschossfläche auf drei Stockwerken beträgt 326 m2. Für den Ausbau der Flächen liegen bewährte Konzepte vor (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung). Bei der Nutzung bestehen kaum Einschränkungen.</p><p>Ein Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.</p><p>Das NK-Akonto beträgt pro Einheit CHF 100&nbsp;/ Monat.</p><p>Gerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.</p>",
+    "descriptionMarkdown": "### Modulare Gewerbeboxen für diverse Nutzungen - GreenPlaces!\n\nGreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.\n\nZur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.\n\nDie Nettogeschossfläche auf drei Stockwerken beträgt 326 m2. Für den Ausbau der Flächen liegen bewährte Konzepte vor (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung). Bei der Nutzung bestehen kaum Einschränkungen.\n\nEin Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.\n\nDas NK-Akonto beträgt pro Einheit CHF 100 / Monat.\n\nGerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.",
     "systemOfficeId": "549b507b-29c6-11ed-842e-005056bdbc06",
     "spaceType": "Commercial Space",
     "Nutzung": "Gewerbe",
@@ -850,8 +880,8 @@
       "zip": "8820"
     },
     "metaTitle": "Top moderne Industriehalle (EG) direkt an der Autobahn!",
-    "descriptionHTML": "<p>Die top moderne Industriehalle verfügt über diverse Features und ist quasi per sofort verfügbar.</p><p>Die Halle zeichnet sich durch folgende Eigenschaften aus:</p><ul><li>Selten verfügbare Erdgeschossfläche</li><li>Deckenhöhe 4.5 m / 3.9 m</li><li>Wasseranschluss</li><li>Druckluft</li><li>LED-Beleuchtung</li><li>Elektroverteilung 400V</li><li>125 Ampere</li><li>Ausgebauter Büroteil</li><li>Pausenraum</li><li>Exklusiv nutzbare Anlieferung (Scherenhubtisch und Anpassrampe)</li><li>Sehr viel Tageslicht</li><li>Ausreichend Parkplätze</li><li>ÖV-Erschliessung vor dem Areal (Bus)</li></ul><p>Das Nebenkosten-Akonto beträgt CHF 20 m2pa.</p><p>Parkplätze sind grundsätzlich verfügbar.</p><p>Alle Beträge verstehen sich zzgl. MwSt.</p><p>Gerne zeigen wir Ihnen diese einmalige Gelegenheit vor Ort.</p>",
-    "descriptionMarkdown": "### Top moderne Industriehalle (EG) direkt an der Autobahn!\n\nDie top moderne Industriehalle verfügt über diverse Features und ist quasi per sofort verfügbar.\n\nDie Halle zeichnet sich durch folgende Eigenschaften aus:\n\n*   Selten verfügbare Erdgeschossfläche\n*   Deckenhöhe 4.5 m / 3.9 m\n*   Wasseranschluss\n*   Druckluft\n*   LED-Beleuchtung\n*   Elektroverteilung 400V\n*   125 Ampere\n*   Ausgebauter Büroteil\n*   Pausenraum\n*   Exklusiv nutzbare Anlieferung (Scherenhubtisch und Anpassrampe)\n*   Sehr viel Tageslicht\n*   Ausreichend Parkplätze\n*   ÖV-Erschliessung vor dem Areal (Bus)\n\nDas Nebenkosten-Akonto beträgt CHF 20 m2pa.\n\nParkplätze sind grundsätzlich verfügbar.\n\nAlle Beträge verstehen sich zzgl. MwSt.\n\nGerne zeigen wir Ihnen diese einmalige Gelegenheit vor Ort.",
+    "descriptionHTML": "<p>Die top moderne Industriehalle verfügt über diverse Features und ist quasi per sofort verfügbar.</p><p>Die Halle zeichnet sich durch folgende Eigenschaften aus:</p><ul><li>Selten verfügbare Erdgeschossfläche</li><li>Deckenhöhe 4.5 m / 3.9 m</li><li>Bodenlast 1'700 kg/m2</li><li>Wasseranschluss</li><li>Druckluft</li><li>LED-Beleuchtung</li><li>Elektroverteilung 400V</li><li>125 Ampere</li><li>Ausgebauter Büroteil</li><li>Pausenraum</li><li>Exklusiv nutzbare Anlieferung (Scherenhubtisch und Anpassrampe)</li><li>Sehr viel Tageslicht</li><li>Ausreichend Parkplätze</li><li>ÖV-Erschliessung vor dem Areal (Bus)</li></ul><p>Das Nebenkosten-Akonto beträgt CHF 20 m2pa.</p><p>Parkplätze sind grundsätzlich verfügbar.</p><p>Alle Beträge verstehen sich zzgl. MwSt.</p><p>Gerne zeigen wir Ihnen diese einmalige Gelegenheit vor Ort.</p>",
+    "descriptionMarkdown": "### Top moderne Industriehalle (EG) direkt an der Autobahn!\n\nDie top moderne Industriehalle verfügt über diverse Features und ist quasi per sofort verfügbar.\n\nDie Halle zeichnet sich durch folgende Eigenschaften aus:\n\n*   Selten verfügbare Erdgeschossfläche\n*   Deckenhöhe 4.5 m / 3.9 m\n*   Bodenlast 1'700 kg/m2\n*   Wasseranschluss\n*   Druckluft\n*   LED-Beleuchtung\n*   Elektroverteilung 400V\n*   125 Ampere\n*   Ausgebauter Büroteil\n*   Pausenraum\n*   Exklusiv nutzbare Anlieferung (Scherenhubtisch und Anpassrampe)\n*   Sehr viel Tageslicht\n*   Ausreichend Parkplätze\n*   ÖV-Erschliessung vor dem Areal (Bus)\n\nDas Nebenkosten-Akonto beträgt CHF 20 m2pa.\n\nParkplätze sind grundsätzlich verfügbar.\n\nAlle Beträge verstehen sich zzgl. MwSt.\n\nGerne zeigen wir Ihnen diese einmalige Gelegenheit vor Ort.",
     "systemOfficeId": "5fbde0de-dcaa-11ee-afda-0a4bde28e6f6",
     "spaceType": "Commercial Space",
     "Nutzung": "Gewerbe",
@@ -1131,40 +1161,6 @@
   },
   {
     "address": {
-      "number": "7",
-      "street": "Ringstrasse",
-      "city": "Schwerzenbach",
-      "zip": "8603"
-    },
-    "metaTitle": "Helle, renovierte Doppelbüros - unweit des Bahnhofs!",
-    "descriptionHTML": "<p>Per sofort stehen im 3.Obergeschoss auch Einzel-/Doppelbüros zur Verfügung. Folgende Grössen sind verfügbar:</p><ul><li>Büro 5 -&nbsp;59 m2</li><li>Büro 6 -&nbsp;39 m2</li><li>Büro 7 -&nbsp;39 m2</li><li>Büro 8 -&nbsp;39 m2</li></ul><p>Die Büroflächen zeichnen sich durch folgende Features aus:</p><ul><li>Bodenbelag neu (Teppich mit Laminat)</li><li>Frisch gestrichen</li><li>WC's und Dusche zur Mitbenutzung</li><li>Bahnhof Schwerzenbach unweit</li><li>Besucherparkplätze vor dem Gebäude</li></ul><p>Aussenparkplätze auf Anfrage à CHF 85 / Monat.</p><p>Im monatlichen Bruttomietzins ist das Nebenkosten-Akonto bereits enthalten.</p><p>Eine kleine Strompauschale in Höhe von CHF 5 pro m2pa wird zusätzlich erhoben, ebenso wie die gesetzliche MwSt. auf alle Beträge.</p><p>Gerne zeigen wir Ihnen diese spannenden Einzelräume vor Ort.</p>",
-    "descriptionMarkdown": "### Helle, renovierte Doppelbüros - unweit des Bahnhofs!\n\nPer sofort stehen im 3.Obergeschoss auch Einzel-/Doppelbüros zur Verfügung. Folgende Grössen sind verfügbar:\n\n*   Büro 5 - 59 m2\n*   Büro 6 - 39 m2\n*   Büro 7 - 39 m2\n*   Büro 8 - 39 m2\n\nDie Büroflächen zeichnen sich durch folgende Features aus:\n\n*   Bodenbelag neu (Teppich mit Laminat)\n*   Frisch gestrichen\n*   WC's und Dusche zur Mitbenutzung\n*   Bahnhof Schwerzenbach unweit\n*   Besucherparkplätze vor dem Gebäude\n\nAussenparkplätze auf Anfrage à CHF 85 / Monat.\n\nIm monatlichen Bruttomietzins ist das Nebenkosten-Akonto bereits enthalten.\n\nEine kleine Strompauschale in Höhe von CHF 5 pro m2pa wird zusätzlich erhoben, ebenso wie die gesetzliche MwSt. auf alle Beträge.\n\nGerne zeigen wir Ihnen diese spannenden Einzelräume vor Ort.",
-    "systemOfficeId": "89c72b5a-b545-11ee-b1a8-0a4bde28e6f6",
-    "spaceType": "Office Space",
-    "Nutzung": "Gewerbe",
-    "dateRent": "ab sofort",
-    "stockwerk": 3,
-    "monthlyPrice": 990,
-    "totalArea": 59,
-    "images": [
-      "https://casagateway.ch/media/provider-12797/property-1214910/6a49ba525758cfe884b48a5e9ff1dbd8.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/c468e55905595fe7f0a38a344bb67e92.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/228f5f88ffe284e8b0d8213aa298da23.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/62de5eec228ed521eb036487e4ba0a95.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/0f2b3658e607d629476b72641aa28923.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/c409970981e61b418e384489e5ba44ac.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/dd793723e76e9c2b41bafd77fbfd2281.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/2e5f4baf75932d454ed3edf76531e927.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/1e16a981e072227419afc6c70ab8c98d.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/0379517867ae6bfe5514b18f284ad62a.png?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/73dc6bdd9356866145566d8fd151c8f2.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/6b54633ed602a859ad40267f29a52916.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1214910/0518f5bacd12e875ed9861929120b422.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1162157/813be4d430537c806e4301a68908775d.jpeg?p=lg"
-    ]
-  },
-  {
-    "address": {
       "number": "40",
       "street": "Bahnhofstrasse",
       "city": "Aarburg",
@@ -1314,8 +1310,8 @@
       "zip": "4416"
     },
     "metaTitle": "GreenPlaces - Modulare Gewerbeeinheiten (Rohbau) für diverse Nutzungen!",
-    "descriptionHTML": "<p></p><p>GreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.</p><p>Zur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.</p><p>Die Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. Für den Ausbau der Flächen liegen bewährte Konzepte vor (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung). Bei der Nutzung bestehen kaum Einschränkungen.</p><p>Ein Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.</p><p>Die Nebenkosten belaufen sich auf CHF 50 / Monat.</p><p>Gerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.</p><p></p>",
-    "descriptionMarkdown": "### GreenPlaces - Modulare Gewerbeeinheiten (Rohbau) für diverse Nutzungen!\n\nGreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.\n\nZur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.\n\nDie Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. Für den Ausbau der Flächen liegen bewährte Konzepte vor (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung). Bei der Nutzung bestehen kaum Einschränkungen.\n\nEin Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.\n\nDie Nebenkosten belaufen sich auf CHF 50 / Monat.\n\nGerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.",
+    "descriptionHTML": "<p>GreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.</p><p>Zur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.</p><p>Die Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. Für den Ausbau der Flächen liegen bewährte Konzepte vor (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung). Bei der Nutzung bestehen kaum Einschränkungen.</p><p>Ein Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.</p><p>Das NK-Akonto beträgt CHF 100 / Monat.</p><p>Gerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.</p>",
+    "descriptionMarkdown": "### GreenPlaces - Modulare Gewerbeeinheiten (Rohbau) für diverse Nutzungen!\n\nGreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.\n\nZur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.\n\nDie Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. Für den Ausbau der Flächen liegen bewährte Konzepte vor (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung). Bei der Nutzung bestehen kaum Einschränkungen.\n\nEin Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.\n\nDas NK-Akonto beträgt CHF 100 / Monat.\n\nGerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.",
     "systemOfficeId": "9f448a87-6f15-11ee-86bd-0a4bde28e6f6",
     "spaceType": "Commercial Space",
     "Nutzung": "Gewerbe",
@@ -1379,7 +1375,7 @@
     "dateRent": "ab sofort",
     "stockwerk": 0,
     "price": 390,
-    "totalArea": 611,
+    "totalArea": 571,
     "images": [
       "https://casagateway.ch/media/provider-12797/property-1374682/e7cc1af87b9ed875e25a3569b08e7c5e.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1374682/d6a04f58e0e5ddc6e61eee59347ed1de.jpeg?p=lg",
@@ -1847,8 +1843,8 @@
       "zip": "4416"
     },
     "metaTitle": "GreenPlaces - Modulare Gewerbeeinheiten (ausgebaut) für diverse Nutzungen!",
-    "descriptionHTML": "<p></p><p>GreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.</p><p>Zur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.</p><p>Die Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. In den ausgebauten Einheiten bestehen bereits WC-Anlage, Heizung/Kühlung (Luft-Luft-Wärmepumpe mit Splitgeräten), Malerarbeiten, Grundbeleuchtung). Bei der Nutzung bestehen kaum Einschränkungen.</p><p>Ein Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.</p><p>Die Nebenkosten belaufen sich auf CHF 50 / Monat.</p><p>Gerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.</p><p></p>",
-    "descriptionMarkdown": "### GreenPlaces - Modulare Gewerbeeinheiten (ausgebaut) für diverse Nutzungen!\n\nGreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.\n\nZur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.\n\nDie Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. In den ausgebauten Einheiten bestehen bereits WC-Anlage, Heizung/Kühlung (Luft-Luft-Wärmepumpe mit Splitgeräten), Malerarbeiten, Grundbeleuchtung). Bei der Nutzung bestehen kaum Einschränkungen.\n\nEin Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.\n\nDie Nebenkosten belaufen sich auf CHF 50 / Monat.\n\nGerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.",
+    "descriptionHTML": "<p>GreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.</p><p>Zur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.</p><p>Die Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. In den ausgebauten Einheiten bestehen bereits WC-Anlage, Heizung/Kühlung (Luft-Luft-Wärmepumpe mit Splitgeräten), Malerarbeiten, Grundbeleuchtung). Bei der Nutzung bestehen kaum Einschränkungen.</p><p>Ein Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.</p><p>Das NK-Akonto beträgt CHF 100 / Monat.</p><p>Gerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.</p>",
+    "descriptionMarkdown": "### GreenPlaces - Modulare Gewerbeeinheiten (ausgebaut) für diverse Nutzungen!\n\nGreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.\n\nZur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.\n\nDie Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. In den ausgebauten Einheiten bestehen bereits WC-Anlage, Heizung/Kühlung (Luft-Luft-Wärmepumpe mit Splitgeräten), Malerarbeiten, Grundbeleuchtung). Bei der Nutzung bestehen kaum Einschränkungen.\n\nEin Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.\n\nDas NK-Akonto beträgt CHF 100 / Monat.\n\nGerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.",
     "systemOfficeId": "c798644a-6f15-11ee-86bd-0a4bde28e6f6",
     "spaceType": "Commercial Space",
     "Nutzung": "Gewerbe",
@@ -1969,7 +1965,7 @@
     "price": 205,
     "totalArea": 209,
     "images": [
-      "https://casagateway.ch/media/provider-12797/property-1380410/d57ac588b331366f67280c61d3d6ad97.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1380341/1ee1a0d7fc3838a020aaaafa75480221.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1380410/9a8ee1f6003dbc693b90552ed35d5450.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1380410/5284a4498140e04ebedfb497f3dfdce0.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1380341/d124a39eb67bb6a78f669467c4eef27f.jpeg?p=lg",
@@ -1977,7 +1973,7 @@
       "https://casagateway.ch/media/provider-12797/property-1380341/5ef1bcd7ba9c2119f33fbf19d581348c.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1380341/7b59e364e4c4a63c6b90bdb2880648a8.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1380341/1de1eba84b87e114f0809c47cde69f6d.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1380341/1ee1a0d7fc3838a020aaaafa75480221.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1380410/d57ac588b331366f67280c61d3d6ad97.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1380341/7026d5ac09483c303c4ff5723d8984b7.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1380341/c59fc5038488c5fbfc53221a61fb381a.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1380341/44d9ba64d932f6ebdb0d8107b6d4974f.jpeg?p=lg"
@@ -2426,35 +2422,6 @@
       "https://casagateway.ch/media/provider-12797/property-1207246/bb74cb80e7313d57316da112579cf42d.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1207243/7d5174a551a6829e8306252fbdc972db.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1207243/b5bf2def013098f83c59e79a6ae075b9.jpeg?p=lg"
-    ]
-  },
-  {
-    "address": {
-      "number": "174",
-      "street": "Vorstadtstrasse",
-      "city": "Laupersdorf",
-      "zip": "4712"
-    },
-    "metaTitle": "Letzte Gewerbeeinheiten - GreenPlaces!",
-    "descriptionHTML": "<p></p><p>GreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.</p><p>Zur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.</p><p>Die Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. Die Flächen sind bereits zweckmässig ausgebaut (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung) und können unmittelbar genutzt werden. Bei der Nutzung bestehen kaum Einschränkungen.</p><p>Ein Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.</p><p>Das Nebenkosten-Akonto beträgt CHF 50 / Monat.</p><p>Gerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.</p><p></p>",
-    "descriptionMarkdown": "### Letzte Gewerbeeinheiten - GreenPlaces!\n\nGreenPlaces ist ein modernes, modulares und ökologisch nachhaltiges Gewerbeparkkonzept, das lokalen KMU's und auch Start-Up's ermöglicht, Geschäftsflächen zu günstigen Konditionen zu mieten.\n\nZur Vermietung stehen einzelne als auch doppelte Einheiten. Auf Anfrage können auch mehrere Einheiten ec bloc gemietet resp. gekauft werden.\n\nDie Nettogeschossfläche auf drei Stockwerken beträgt 163 m2. Die Flächen sind bereits zweckmässig ausgebaut (WC, Heizung/Kühlung, Malerarbeiten, Elektro-Grundverteilung) und können unmittelbar genutzt werden. Bei der Nutzung bestehen kaum Einschränkungen.\n\nEin Parkplatz pro Einheit kann für CHF 50 / Monat gemietet werden.\n\nDas Nebenkosten-Akonto beträgt CHF 50 / Monat.\n\nGerne zeigen wir Ihnen dieses spannende und zweckmässige Konzept vor Ort.",
-    "systemOfficeId": "f49af5eb-6f14-11ee-86bd-0a4bde28e6f6",
-    "spaceType": "Commercial Space",
-    "Nutzung": "Gewerbe",
-    "dateRent": "ab sofort",
-    "price": 1350,
-    "totalArea": 163,
-    "images": [
-      "https://casagateway.ch/media/provider-12797/property-1122617/face21afad8269b6fe65c9134c9af281.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1122617/5c2ec30f19c6eb7fced860bf0147544e.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1122617/4a7c51b29468844f4b9d9093d4d17227.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1122617/07a495411c6fbece7a36b0f33afb5f30.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1122617/e38fcce2e88201733cab3b33dc3ec918.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1122617/59abe1ea78cf0bd00e2cbcd31eb79b34.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1122617/0f1dfe1f0fac2d595a6f5a2dff9d36d4.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1122617/afdaf27f3e57107c06212b873e832e93.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1122617/4ddf03d71df5e6039b59dd1432009b86.jpg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1122617/911f2d3dd21de78666c236d394d6a176.jpg?p=lg"
     ]
   },
   {
