@@ -1412,31 +1412,6 @@
   },
   {
     "address": {
-      "number": "30",
-      "street": "Europa-Strasse",
-      "city": "Opfikon",
-      "zip": "8152"
-    },
-    "metaTitle": "Klimatisiertes Einzelbüro mit kleinem Lagerraum",
-    "descriptionHTML": "<h3>Klimatisiertes Einzelbüro mit kleinem Lagerraum</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p>An guter Lage in Glattbrugg steht ein helles, ausgebautes und klimatisiertes Einzelbüro mit einem dazugehörigen Lagerraum von 6.5 m2 zur Vermietung.</p><p>Die Mietfläche zeichnet sich vor allem durch folgende Eigenschaften aus:</p><p>Teppichboden wird vor Bezug neu gemacht (Mitspracherecht)<br>Parkplätze vorhanden<br>Gute Verkehrsanbindung (Die Liegenschaft liegt unweit vom Bahnhof und der Tramstation \"Bäuler\" ; der Autobahnanschluss und der Flughafen Zürich befindet sich lediglich in zwei Minuten Entfernung).</p><p>Das Nebenkosten-Akonto beträgt CHF 20 m2pa.</p><p>Aussenparkplätze sind zu CHF 120 / Monat verfügbar.</p><p>Alle Preisangaben verstehen sich zzgl. gesetzlicher MwSt.</p><p>Gerne zeigen wir Ihnen&nbsp;die Räumlichkeiten vor Ort.</p>",
-    "descriptionMarkdown": "### Klimatisiertes Einzelbüro mit kleinem Lagerraum\n\n### Klimatisiertes Einzelbüro mit kleinem Lagerraum\n\nAn guter Lage in Glattbrugg steht ein helles, ausgebautes und klimatisiertes Einzelbüro mit einem dazugehörigen Lagerraum von 6.5 m2 zur Vermietung.\n\nDie Mietfläche zeichnet sich vor allem durch folgende Eigenschaften aus:\n\nTeppichboden wird vor Bezug neu gemacht (Mitspracherecht)  \nParkplätze vorhanden  \nGute Verkehrsanbindung (Die Liegenschaft liegt unweit vom Bahnhof und der Tramstation \"Bäuler\" ; der Autobahnanschluss und der Flughafen Zürich befindet sich lediglich in zwei Minuten Entfernung).\n\nDas Nebenkosten-Akonto beträgt CHF 20 m2pa.\n\nAussenparkplätze sind zu CHF 120 / Monat verfügbar.\n\nAlle Preisangaben verstehen sich zzgl. gesetzlicher MwSt.\n\nGerne zeigen wir Ihnen die Räumlichkeiten vor Ort.",
-    "systemOfficeId": "..(6599376)",
-    "spaceType": "Office Space",
-    "Nutzung": "Gewerbe",
-    "dateRent": "ab sofort",
-    "stockwerk": 0,
-    "price": 230,
-    "totalArea": 74,
-    "images": [
-      "https://casagateway.ch/media/provider-12797/property-1297127/cfc29c11c8e1ef166654ef1c5f3f64bb.png?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1297127/95b82e4f6bbb0a887b588611c857ac4f.png?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1297127/1a80a5f79a9f454a80b09866fd429c05.png?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1297127/acd41c752c7493a0105d7bce87c6f8c7.png?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-914760/97e037b463c181968d59c805f6251a27.jpg?p=lg"
-    ]
-  },
-  {
-    "address": {
       "number": "12",
       "street": "Industriestrasse",
       "city": "Wilderswil",
