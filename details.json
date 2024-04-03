@@ -350,6 +350,28 @@
   },
   {
     "address": {
+      "number": "30",
+      "street": "Europa-Strasse",
+      "city": "Opfikon",
+      "zip": "8152"
+    },
+    "metaTitle": "Geräumiges, klimatisiertes Einzelbüro",
+    "descriptionHTML": "<h3>Geräumiges, klimatisiertes Einzelbüro</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p>An guter Lage in Glattbrugg steht ein helles, geräumiges und klimatisiertes Einzelbüro zur Vermietung.</p><p>Die Mietfläche zeichnet sich vor allem durch folgende Eigenschaften aus:</p><ul><li>Hohe Decken (4 m)</li><li>Teppichboden wird vor Bezug neu gemacht (Mitspracherecht)</li><li>Parkplätze vorhanden</li><li>Gute Verkehrsanbindung (Die Liegenschaft liegt unweit vom Bahnhof und der Tramstation \"Bäuler\" ; der Autobahnanschluss und der Flughafen Zürich befindet sich lediglich in zwei Minuten Entfernung).</li></ul><p>Das Nebenkosten-Akonto beträgt CHF 20 m2pa.</p><p>Aussenparkplätze sind zu CHF 120 / Monat verfügbar.</p><p>Alle Preisangaben verstehen sich zzgl. gesetzlicher MwSt.</p><p>Gerne zeigen wir Ihnen&nbsp;die Räumlichkeiten vor Ort.</p>",
+    "descriptionMarkdown": "### Geräumiges, klimatisiertes Einzelbüro\n\n### Geräumiges, klimatisiertes Einzelbüro\n\nAn guter Lage in Glattbrugg steht ein helles, geräumiges und klimatisiertes Einzelbüro zur Vermietung.\n\nDie Mietfläche zeichnet sich vor allem durch folgende Eigenschaften aus:\n\n*   Hohe Decken (4 m)\n*   Teppichboden wird vor Bezug neu gemacht (Mitspracherecht)\n*   Parkplätze vorhanden\n*   Gute Verkehrsanbindung (Die Liegenschaft liegt unweit vom Bahnhof und der Tramstation \"Bäuler\" ; der Autobahnanschluss und der Flughafen Zürich befindet sich lediglich in zwei Minuten Entfernung).\n\nDas Nebenkosten-Akonto beträgt CHF 20 m2pa.\n\nAussenparkplätze sind zu CHF 120 / Monat verfügbar.\n\nAlle Preisangaben verstehen sich zzgl. gesetzlicher MwSt.\n\nGerne zeigen wir Ihnen die Räumlichkeiten vor Ort.",
+    "systemOfficeId": "..(6599376)",
+    "spaceType": "Office Space",
+    "Nutzung": "Gewerbe",
+    "dateRent": "ab sofort",
+    "stockwerk": 0,
+    "price": 230,
+    "totalArea": 40,
+    "images": [
+      "https://casagateway.ch/media/provider-12797/property-1297127/53a66815c40c684270c6cd27350f18b7.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-914760/97e037b463c181968d59c805f6251a27.jpg?p=lg"
+    ]
+  },
+  {
+    "address": {
       "number": "16a",
       "street": "Florastrasse",
       "city": "Biel",
@@ -420,8 +442,8 @@
     "Nutzung": "Gewerbe",
     "dateRent": "ab sofort",
     "stockwerk": 4,
-    "price": 120,
-    "totalArea": 158,
+    "price": 115,
+    "totalArea": 159,
     "images": [
       "https://casagateway.ch/media/provider-12797/property-1378158/54a52e9c4edb125cd0d7a7f28bb53ecd.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1378158/c3e5c65fd1ebd3516928a2fee69e48e6.jpeg?p=lg",
@@ -540,38 +562,6 @@
       "https://casagateway.ch/media/provider-12797/property-914726/7a3a036eea3181b61eb5b119223fd05d.jpg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1140057/e308bcd25670fb4671eac7ec231eb6c7.jpg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1240251/d2b172fad2c2fefc752dc5d118263c21.jpeg?p=lg"
-    ]
-  },
-  {
-    "address": {
-      "number": "5",
-      "street": "Weierstrasse",
-      "city": "Klingnau",
-      "zip": "5313"
-    },
-    "metaTitle": "Gewerbe-/Lagerhalle mit knapp 1'000 m2 in Klingnau!",
-    "descriptionHTML": "<p>Zur Verfügung steht eine beheizte Gewerbe-/Lagerhalle mit ca. 9 m Deckenhöhe. Das installierte Lagergestell kann genutzt werden, befindet sich jedoch im Eigentum der Vermieterin. Die Bodenlast beträgt 5 to/m².</p><p>Ab 7.5 m Lagerhöhe gelten besondere Brandschutzbestimmungen, die in der Verantwortung des Betreibers des Regalgestells liegen.</p><p>Die Anlieferung ist sowohl über eine Anpassrampe als auch über einen Scherenhubtisch möglich. Zudem ist der Bereich überdacht. Die Paletten-Zuführanlage und die Schleuse am Tor wurden zurückgebaut. Im vorderen Bereich steht also die gesamte Bodenfläche zur Verfügung.</p><p>In der Fläche selbst ist ein WC vorhanden. Nebenflächen wie Büros, Sitzungsräume, Umkleiden oder auch eine grosszügige Küche (mit Kühlschränken, Herd etc.) können bei Bedarf im Haupthaus anteilig gemietet werden.</p><p>Zum ausgeschriebenen Nettomietzins kommt ein NK-Akonto von ca. CHF 10 m²pa und die gesetzliche MwSt. hinzu.</p><p>Gerne zeigen wir Ihnen diese hochwertige Gewerbefläche resp. Lagerfläche vor Ort.</p>",
-    "descriptionMarkdown": "### Gewerbe-/Lagerhalle mit knapp 1'000 m2 in Klingnau!\n\nZur Verfügung steht eine beheizte Gewerbe-/Lagerhalle mit ca. 9 m Deckenhöhe. Das installierte Lagergestell kann genutzt werden, befindet sich jedoch im Eigentum der Vermieterin. Die Bodenlast beträgt 5 to/m².\n\nAb 7.5 m Lagerhöhe gelten besondere Brandschutzbestimmungen, die in der Verantwortung des Betreibers des Regalgestells liegen.\n\nDie Anlieferung ist sowohl über eine Anpassrampe als auch über einen Scherenhubtisch möglich. Zudem ist der Bereich überdacht. Die Paletten-Zuführanlage und die Schleuse am Tor wurden zurückgebaut. Im vorderen Bereich steht also die gesamte Bodenfläche zur Verfügung.\n\nIn der Fläche selbst ist ein WC vorhanden. Nebenflächen wie Büros, Sitzungsräume, Umkleiden oder auch eine grosszügige Küche (mit Kühlschränken, Herd etc.) können bei Bedarf im Haupthaus anteilig gemietet werden.\n\nZum ausgeschriebenen Nettomietzins kommt ein NK-Akonto von ca. CHF 10 m²pa und die gesetzliche MwSt. hinzu.\n\nGerne zeigen wir Ihnen diese hochwertige Gewerbefläche resp. Lagerfläche vor Ort.",
-    "systemOfficeId": "..(6003542)",
-    "spaceType": "Commercial Space",
-    "Nutzung": "Gewerbe",
-    "dateRent": "ab sofort",
-    "stockwerk": 0,
-    "Hallenhöhe": "9 m",
-    "price": 105,
-    "totalArea": 956,
-    "images": [
-      "https://casagateway.ch/media/provider-12797/property-1379104/6b22e929acc5281dcab6dcbfb9dd7c98.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/5e85853f801e7ab8a0b8f80a4c3af716.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/5b27d9187080070636e366d29b01b182.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/78a2b21c829165689f9dcae611ede537.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/5478568fcd90235f0ce24b4b10a92079.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/9d8d39c2bd9691c900ff60a5a1198b51.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/6124334c82348f53819903c70034de0f.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/ab433f62b2885fc4c4bfdb110eec8c74.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/8109ec3c58538333cdac592167a81302.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/a16a8f580a99e17316ec12777167ad9a.jpeg?p=lg",
-      "https://casagateway.ch/media/provider-12797/property-1379104/fd76fc1a1ea3950be4c8cd2b810d4908.png?p=lg"
     ]
   },
   {
@@ -920,7 +910,7 @@
     "Nutzung": "Gewerbe",
     "dateRent": "ab sofort",
     "stockwerk": 6,
-    "price": 120,
+    "price": 115,
     "totalArea": 435,
     "images": [
       "https://casagateway.ch/media/provider-12797/property-1232812/c9e96c69a10520cc5420c9e8e4d7910e.jpeg?p=lg",
@@ -1412,6 +1402,29 @@
   },
   {
     "address": {
+      "number": "30",
+      "street": "Europa-Strasse",
+      "city": "Opfikon",
+      "zip": "8152"
+    },
+    "metaTitle": "Klimatisiertes Einzelbüro mit kleinem Lagerraum",
+    "descriptionHTML": "<h3>Klimatisiertes Einzelbüro mit kleinem Lagerraum</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p>An guter Lage in Glattbrugg steht ein helles, ausgebautes und klimatisiertes Einzelbüro mit einem dazugehörigen Lagerraum von 6.5 m2 zur Vermietung.</p><p>Die Mietfläche zeichnet sich vor allem durch folgende Eigenschaften aus:</p><p>Teppichboden wird vor Bezug neu gemacht (Mitspracherecht)<br>Parkplätze vorhanden<br>Gute Verkehrsanbindung (Die Liegenschaft liegt unweit vom Bahnhof und der Tramstation \"Bäuler\" ; der Autobahnanschluss und der Flughafen Zürich befindet sich lediglich in zwei Minuten Entfernung).</p><p>Das Nebenkosten-Akonto beträgt CHF 20 m2pa.</p><p>Aussenparkplätze sind zu CHF 120 / Monat verfügbar.</p><p>Alle Preisangaben verstehen sich zzgl. gesetzlicher MwSt.</p><p>Gerne zeigen wir Ihnen&nbsp;die Räumlichkeiten vor Ort.</p>",
+    "descriptionMarkdown": "### Klimatisiertes Einzelbüro mit kleinem Lagerraum\n\n### Klimatisiertes Einzelbüro mit kleinem Lagerraum\n\nAn guter Lage in Glattbrugg steht ein helles, ausgebautes und klimatisiertes Einzelbüro mit einem dazugehörigen Lagerraum von 6.5 m2 zur Vermietung.\n\nDie Mietfläche zeichnet sich vor allem durch folgende Eigenschaften aus:\n\nTeppichboden wird vor Bezug neu gemacht (Mitspracherecht)  \nParkplätze vorhanden  \nGute Verkehrsanbindung (Die Liegenschaft liegt unweit vom Bahnhof und der Tramstation \"Bäuler\" ; der Autobahnanschluss und der Flughafen Zürich befindet sich lediglich in zwei Minuten Entfernung).\n\nDas Nebenkosten-Akonto beträgt CHF 20 m2pa.\n\nAussenparkplätze sind zu CHF 120 / Monat verfügbar.\n\nAlle Preisangaben verstehen sich zzgl. gesetzlicher MwSt.\n\nGerne zeigen wir Ihnen die Räumlichkeiten vor Ort.",
+    "systemOfficeId": "..(6599376)",
+    "spaceType": "Office Space",
+    "Nutzung": "Gewerbe",
+    "dateRent": "ab sofort",
+    "stockwerk": 0,
+    "price": 230,
+    "totalArea": 74,
+    "images": [
+      "https://casagateway.ch/media/provider-12797/property-1297127/7c4c009c0f132147f0b9e5118155df96.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1297127/53a66815c40c684270c6cd27350f18b7.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-914760/97e037b463c181968d59c805f6251a27.jpg?p=lg"
+    ]
+  },
+  {
+    "address": {
       "number": "12",
       "street": "Industriestrasse",
       "city": "Wilderswil",
@@ -1739,7 +1752,7 @@
     "Nutzung": "Gewerbe",
     "dateRent": "ab sofort",
     "stockwerk": 4,
-    "price": 160,
+    "price": 155,
     "totalArea": 157,
     "images": [
       "https://casagateway.ch/media/provider-12797/property-1361180/9fb81b624675772eec58a06f3cb4efa6.jpeg?p=lg",
@@ -2210,7 +2223,7 @@
     "dateRent": "ab sofort",
     "stockwerk": 4,
     "price": 150,
-    "totalArea": 69,
+    "totalArea": 71,
     "images": [
       "https://casagateway.ch/media/provider-12797/property-1293501/f9bf869f26bf9b7f9063ff68ce94a274.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1293501/80a9e04cd666e90788d4f6046286401b.jpeg?p=lg",
