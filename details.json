@@ -1586,6 +1586,28 @@
   },
   {
     "address": {
+      "number": "3",
+      "street": "Bahnhofstrasse",
+      "city": "Berikon",
+      "zip": "8965"
+    },
+    "metaTitle": "Bürofläche im Beri-Märt",
+    "descriptionHTML": "<h3>Berikon</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Zu vermieten ist eine gut gelegene Bürofläche von 100 m²&nbsp; im 1. Obergeschoss über dem Beri-Märt in Berikon.</p><p>Die Fläche besteht auf einem grossen Openspace- Bereich sowie einer Teeküche und eigenen WC's.&nbsp;</p><p>Sowohl ein Personen- als auch Wartenlift ist vorhanden.</p><p>Für Ihre Besucher stehen in der Tiefgarage Parkplätze zur Verfügung.</p><p>Im Beri-Märkt finden Sie einen Coop und ein Restaurant zur Verpflegung, sowie weitere Geschäfte wie Coiffeur, Apotheke und Physiotherapie.</p><p>Gerne zeigen wir Ihnen diese spannende Gelegenheit vor Ort.</p>",
+    "descriptionMarkdown": "### Bürofläche im Beri-Märt\n\n### Berikon\n\nZu vermieten ist eine gut gelegene Bürofläche von 100 m²  im 1. Obergeschoss über dem Beri-Märt in Berikon.\n\nDie Fläche besteht auf einem grossen Openspace- Bereich sowie einer Teeküche und eigenen WC's. \n\nSowohl ein Personen- als auch Wartenlift ist vorhanden.\n\nFür Ihre Besucher stehen in der Tiefgarage Parkplätze zur Verfügung.\n\nIm Beri-Märkt finden Sie einen Coop und ein Restaurant zur Verpflegung, sowie weitere Geschäfte wie Coiffeur, Apotheke und Physiotherapie.\n\nGerne zeigen wir Ihnen diese spannende Gelegenheit vor Ort.",
+    "systemOfficeId": "ba8ca5a8-f1b3-11ee-afda-0a4bde28e6f6",
+    "spaceType": "Office Space",
+    "Nutzung": "Gewerbe",
+    "dateRent": "ab sofort",
+    "stockwerk": 1,
+    "price": 220,
+    "totalArea": 100,
+    "images": [
+      "https://casagateway.ch/media/provider-12797/property-1400222/a56f55b8ac75b6babe0d339d05aecb53.png?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1356679/77515b274b976dc075f522c6315683e8.png?p=lg"
+    ]
+  },
+  {
+    "address": {
       "number": "7",
       "street": "Ringstrasse",
       "city": "Schwerzenbach",
