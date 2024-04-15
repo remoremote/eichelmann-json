@@ -1153,6 +1153,61 @@
   },
   {
     "address": {
+      "number": "17",
+      "street": "Hinterbergstrasse",
+      "city": "Cham",
+      "zip": "6330"
+    },
+    "metaTitle": "Helle, top gelegene Bürofläche in Cham!",
+    "descriptionHTML": "<p>In einem modernen Geschäftshaus an der Hinterbergstrasse 17 in Cham vermieten wir eine repräsentative Büroflächen mit ausserordentlich hohen Decken und allen nötigen Nebenflächen, die heutzutage benötigt werden. Die Flächen und der Ausbau sind sehr gepflegt.</p><p>Die Liegenschaft befindet sich in unmittelbarer Nähe zu:</p><ul><li>Vielzahl an Restaurants</li><li>Diversen Retailern (Aldi, Lidl, Jumbo, Coop Tankstelle)</li><li>PureGym</li><li>Würth Handwerkershop</li><li>Einkaufszentrum Zugerland</li><li>Zudem Baby Walz, Jysk und Aquarienfachmarkt innerhalb des Gebäudes</li></ul><p>Die Anbindung sowohl mit dem Individualverkehr als auch mit den öffentlichen Verkehrsmitteln ist ebenfalls sehr gut:</p><ul><li>Autobahnanschluss 1 Minute</li><li>Bushaltstelle 1 Minute</li><li>Bahnstation Steinhausen Rigiblick 1 Minute</li></ul><p>Die Bürofläche selbst besticht durch folgende Eigenschaften:</p><ul><li>Bestehende Unterteilungen (Einzelbüros, Mehrfachbüros, Open Space)</li><li>Diverse Sitzungsräume</li><li>Grosszügige Teeküche mit Aufenthaltsbereich</li><li>Bestehende Belüftung mit konditionierter Luft</li><li>Lichtinstallation&nbsp;</li><li>Akustikdecke</li><li>Viel Tageslicht aufgrund der Deckenhöhe</li><li>Aussicht</li><li>Garderobe und Empfangsbereich</li><li>Archivraum</li><li>Serverraum</li></ul><p>Das Nebenkosten-Akonto beträgt CHF 25 / m2pa.<br>Aussen- (CHF 100 / Monat) oder Einstellplätze (CHF 150 / Monat) können bei Bedarf dazu gemietet werden.</p><p>Alle Preise verstehen sich zzgl. MwSt. 8.1%.</p><p>Gerne zeigen wir Ihnen diese repräsentative Bürofläche in einer ansprechenden Liegenschaft.</p>",
+    "descriptionMarkdown": "### Helle, top gelegene Bürofläche in Cham!\n\nIn einem modernen Geschäftshaus an der Hinterbergstrasse 17 in Cham vermieten wir eine repräsentative Büroflächen mit ausserordentlich hohen Decken und allen nötigen Nebenflächen, die heutzutage benötigt werden. Die Flächen und der Ausbau sind sehr gepflegt.\n\nDie Liegenschaft befindet sich in unmittelbarer Nähe zu:\n\n*   Vielzahl an Restaurants\n*   Diversen Retailern (Aldi, Lidl, Jumbo, Coop Tankstelle)\n*   PureGym\n*   Würth Handwerkershop\n*   Einkaufszentrum Zugerland\n*   Zudem Baby Walz, Jysk und Aquarienfachmarkt innerhalb des Gebäudes\n\nDie Anbindung sowohl mit dem Individualverkehr als auch mit den öffentlichen Verkehrsmitteln ist ebenfalls sehr gut:\n\n*   Autobahnanschluss 1 Minute\n*   Bushaltstelle 1 Minute\n*   Bahnstation Steinhausen Rigiblick 1 Minute\n\nDie Bürofläche selbst besticht durch folgende Eigenschaften:\n\n*   Bestehende Unterteilungen (Einzelbüros, Mehrfachbüros, Open Space)\n*   Diverse Sitzungsräume\n*   Grosszügige Teeküche mit Aufenthaltsbereich\n*   Bestehende Belüftung mit konditionierter Luft\n*   Lichtinstallation \n*   Akustikdecke\n*   Viel Tageslicht aufgrund der Deckenhöhe\n*   Aussicht\n*   Garderobe und Empfangsbereich\n*   Archivraum\n*   Serverraum\n\nDas Nebenkosten-Akonto beträgt CHF 25 / m2pa.  \nAussen- (CHF 100 / Monat) oder Einstellplätze (CHF 150 / Monat) können bei Bedarf dazu gemietet werden.\n\nAlle Preise verstehen sich zzgl. MwSt. 8.1%.\n\nGerne zeigen wir Ihnen diese repräsentative Bürofläche in einer ansprechenden Liegenschaft.",
+    "systemOfficeId": "9668517d-f74d-11ee-afda-0a4bde28e6f6",
+    "spaceType": "Office Space",
+    "Nutzung": "Gewerbe",
+    "dateRent": "1. April 2025",
+    "stockwerk": 2,
+    "price": 230,
+    "totalArea": 694,
+    "images": [
+      "https://casagateway.ch/media/provider-12797/property-1404627/59e6e1b2dd5f91f343b596cdc7a930be.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1404627/2a1f53a79f1090a8dc1ced89d9de5bf1.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1404627/55f5f107f0f6479a3e41df50cfd1ba8d.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1404627/b1d0fffe4c31048d44b4043db8ac1dfe.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1404627/ae46cf6c4daac8c129c8e2ed52b77432.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1404627/7663fc0c8292dff6267ac54081f18eb7.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1404627/865af2468f6cd8c3eb62e3626f3e7d35.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1404627/db70a2bd833668861efc5df3f97689f1.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1404627/5152ac2489ac47183dd7ea351e1aea6a.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1404627/df25fa36cc2df95bb2b4073d5bad0f53.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1199498/aa3b26262f6095c854dc7504502efebb.jpeg?p=lg"
+    ]
+  },
+  {
+    "address": {
+      "number": "18",
+      "street": "Neumarktplatz",
+      "city": "Brugg",
+      "zip": "5200"
+    },
+    "metaTitle": "Verkaufsfläche an bester Lage in Brugg - Erdgeschoss mit Untergeschoss",
+    "descriptionHTML": "<p>Zur Vermietung steht eine Verkaufsfläche an bester Lage am Neumarktplatz in Brugg. Die ca. 1'433 m2 teilen sich folgendermassen auf drei Etagen auf:</p><ul><li>UG ca. 376 m2</li><li>EG ca. 456 m2</li><li>OG ca. 601 m2</li></ul><p>Der Nettomietzins von CHF 390 m2pa gilt für das Erdgeschoss mit dem Untergeschoss.</p><p>Mögliche Teilflächen:</p><ul><li>EG + UG</li><li>OG</li></ul><p>Das Center erfuhr in den letzten Monaten eine Revitalisierung und das Obergeschoss ist nun zusätzlich durch den Eingang beim Coop über die neue Passerelle erreichbar. Das Look and Feel wurde vereinheitlicht, wodurch das Gefühl einer Einheit gefördert wird. Somit profitieren alle Geschäfte vom Umbau und dem bestehenden Personenverkehr.</p><p>Gerne zeigen wir Ihnen diese einmalige Gelegenheit vor Ort.</p>",
+    "descriptionMarkdown": "### Verkaufsfläche an bester Lage in Brugg - Erdgeschoss mit Untergeschoss\n\nZur Vermietung steht eine Verkaufsfläche an bester Lage am Neumarktplatz in Brugg. Die ca. 1'433 m2 teilen sich folgendermassen auf drei Etagen auf:\n\n*   UG ca. 376 m2\n*   EG ca. 456 m2\n*   OG ca. 601 m2\n\nDer Nettomietzins von CHF 390 m2pa gilt für das Erdgeschoss mit dem Untergeschoss.\n\nMögliche Teilflächen:\n\n*   EG + UG\n*   OG\n\nDas Center erfuhr in den letzten Monaten eine Revitalisierung und das Obergeschoss ist nun zusätzlich durch den Eingang beim Coop über die neue Passerelle erreichbar. Das Look and Feel wurde vereinheitlicht, wodurch das Gefühl einer Einheit gefördert wird. Somit profitieren alle Geschäfte vom Umbau und dem bestehenden Personenverkehr.\n\nGerne zeigen wir Ihnen diese einmalige Gelegenheit vor Ort.",
+    "systemOfficeId": "96dbfb30-f804-11ee-afda-0a4bde28e6f6",
+    "spaceType": "Retail Space",
+    "Nutzung": "Gewerbe",
+    "dateRent": "ab sofort",
+    "stockwerk": 0,
+    "price": 390,
+    "totalArea": 834,
+    "images": [
+      "https://casagateway.ch/media/provider-12797/property-1374646/87dddadc599d9a7a5a96677ab8e255cf.png?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1374646/10f857efe34c842571078625502a4973.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1374646/8c74a9719f75a7e549dd372ef09634e2.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1374646/c95b2ad5596920a1d369d585cde5cfb8.jpeg?p=lg"
+    ]
+  },
+  {
+    "address": {
       "number": "26",
       "street": "Industriestrasse",
       "city": "Winterthur",
@@ -2204,6 +2259,30 @@
       "https://casagateway.ch/media/provider-12797/property-1207195/e0135e6c254fe67522d51bec5b8d4191.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1207195/bf9ae577f21fc3702ce008e3441fff7b.jpeg?p=lg",
       "https://casagateway.ch/media/provider-12797/property-1207195/24147e20e774da574ad6c58c88507112.jpeg?p=lg"
+    ]
+  },
+  {
+    "address": {
+      "number": "18",
+      "street": "Neumarktplatz",
+      "city": "Brugg",
+      "zip": "5200"
+    },
+    "metaTitle": "Spannende Verkaufsfläche an bester Lage in Brugg - Obergeschoss",
+    "descriptionHTML": "<p>Zur Vermietung steht eine Verkaufsfläche an bester Lage am Neumarktplatz in Brugg. Die ca. 1'433 m2 teilen sich folgendermassen auf drei Etagen auf:</p><ul><li>UG ca. 376 m2</li><li>EG ca. 456 m2</li><li>OG ca. 601 m2</li></ul><p>Der Nettomietzins von CHF 300 m2pa gilt für das 1. Obergeschoss.</p><p>Mögliche Teilflächen:</p><ul><li>UG + EG</li><li>OG</li></ul><p>Das Center erfuhr in den letzten Monaten eine Revitalisierung und das Obergeschoss ist nun zusätzlich durch den Eingang beim Coop über die neue Passerelle erreichbar. Das Look and Feel wurde vereinheitlicht, wodurch das Gefühl einer Einheit gefördert wird. Somit profitieren alle Geschäfte vom Umbau und dem bestehenden Personenverkehr.</p><p>Gerne zeigen wir Ihnen diese einmalige Gelegenheit vor Ort.</p>",
+    "descriptionMarkdown": "### Spannende Verkaufsfläche an bester Lage in Brugg - Obergeschoss\n\nZur Vermietung steht eine Verkaufsfläche an bester Lage am Neumarktplatz in Brugg. Die ca. 1'433 m2 teilen sich folgendermassen auf drei Etagen auf:\n\n*   UG ca. 376 m2\n*   EG ca. 456 m2\n*   OG ca. 601 m2\n\nDer Nettomietzins von CHF 300 m2pa gilt für das 1. Obergeschoss.\n\nMögliche Teilflächen:\n\n*   UG + EG\n*   OG\n\nDas Center erfuhr in den letzten Monaten eine Revitalisierung und das Obergeschoss ist nun zusätzlich durch den Eingang beim Coop über die neue Passerelle erreichbar. Das Look and Feel wurde vereinheitlicht, wodurch das Gefühl einer Einheit gefördert wird. Somit profitieren alle Geschäfte vom Umbau und dem bestehenden Personenverkehr.\n\nGerne zeigen wir Ihnen diese einmalige Gelegenheit vor Ort.",
+    "systemOfficeId": "eb9bb5e1-f803-11ee-afda-0a4bde28e6f6",
+    "spaceType": "Retail Space",
+    "Nutzung": "Gewerbe",
+    "dateRent": "ab sofort",
+    "stockwerk": 1,
+    "price": 300,
+    "totalArea": 601,
+    "images": [
+      "https://casagateway.ch/media/provider-12797/property-1374646/10f857efe34c842571078625502a4973.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1374646/8c74a9719f75a7e549dd372ef09634e2.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1374646/c95b2ad5596920a1d369d585cde5cfb8.jpeg?p=lg",
+      "https://casagateway.ch/media/provider-12797/property-1374646/87dddadc599d9a7a5a96677ab8e255cf.png?p=lg"
     ]
   },
   {
